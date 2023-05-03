@@ -18,5 +18,7 @@ Add the event listener:
 
 Same as describe in https://github.com/lepture/github-cards:
 
-	<div class="github-card" data-user="lepture" data-repo="github-cards"></div>
+    <section data-state="github-card">
+    	<div class="github-card" data-user="lepture" data-repo="github-cards"></div>
+	</section>
 	
